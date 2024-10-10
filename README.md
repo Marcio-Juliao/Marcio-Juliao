@@ -1,16 +1,18 @@
 ## Olá! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Currently, I'm pursuing a Bachelor's degree in Information Systems at SPTech School
 - 🌱 Studying: Kotlin, Docker and More!
 - 📫 How to reach me: marciorjuliao@gmail.com
+<hr>
+
+<div align="center">
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-juliao&layout=compact">
 </div>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<hr>
 <div style="display: inline_block, align-self: center">
   <img align="center" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
@@ -19,5 +21,6 @@ Here are some ideas to get you started:
   <img align="center" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 </div>          
-          
+
+</div>
           
